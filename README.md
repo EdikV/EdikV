@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdikV
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently Automation with Selenium and Java
 
 <!---
 EdikV/EdikV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
